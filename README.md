@@ -4,8 +4,6 @@ Hi, I’m Rool, a senior freelance iOS developer, working on internet, web, app,
 
 ## Early Start
 
-![Rool Paap, freelance iOS developer](http://roolproductions.com/wp-content/uploads/2018/03/rool-squared-300x300.png)Rool Paap
-
 I’ve been developing for the internet since the last century. You name it, I’ve build it. Remember those CDs you got with every magazine to get your dial-up connection to the internet? You guessed it, I build that in my awesome [Perl](https://www.perl.org/) hacker days. I’ve build a complete advertisement banner program, long before the Google Ad days. 
 
 Things change, so I jumped on the web development train in 2002. Starting with websites in [PHP](http://www.php.net/), I progressed to mass mailing systems, content management systems and online collaboration tools.
