@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm ⚠️Rool⚠️</h1>
-<h3 align="center">Senior freelance iOS developer</h3>
+# Rool
 
-- 👨‍💻 All of my projects are available at [https://roolproductions.com/category/portfolio/](https://roolproductions.com/category/portfolio/)
+Hi, I’m Rool, a senior freelance iOS developer, working on internet, web, app, mobile and tablet projects since 1997. With over 25 years of experience in software development, I consider myself to be a well rounded professional.
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p align="center">
-<a href="https://twitter.com/rool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rool" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/roolpaap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roolpaap" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/443270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="443270" height="30" width="30" /></a>
-</p>
+## Early Start
+
+![Rool Paap, freelance iOS developer](http://roolproductions.com/wp-content/uploads/2018/03/rool-squared-300x300.png)Rool Paap
+
+I’ve been developing for the internet since the last century. You name it, I’ve build it. Remember those CDs you got with every magazine to get your dial-up connection to the internet? You guessed it, I build that in my awesome [Perl](https://www.perl.org/) hacker days. I’ve build a complete advertisement banner program, long before the Google Ad days. 
+
+Things change, so I jumped on the web development train in 2002. Starting with websites in [PHP](http://www.php.net/), I progressed to mass mailing systems, content management systems and online collaboration tools.
+
+## Mobile First
+
+The rise of the mobile phone lead to the *“mobile first”* trend, so once again I shifted my focus to mobile development. Starting with touch frameworks, I soon found my way into the native stuff, developing both for iOS in Objective-C and for [Android](https://www.android.com/). 
+
+Around 2011 I saw a ever growing demand for those mobile skills, so I became a part-time freelancer. After building some cool projects both for iOS and Android, I found myself doing more and more iOS and less and less Android. 
+
+As soon as [Apple](https://www.apple.com/nl/swift/) announced [Swift](https://developer.apple.com/swift/), I jumped on the Swift train. Starting late 2014, I became a full time freelance iOS developer.
+
+## Freelance iOS developer
+
+So here I am today, a senior freelance iOS developer, looking for cool projects on the crossroads of mobile apps, data, APIs, ready to deliver an amazing experience. If you have such a project, you came to the right place! Just send me an [email](mailto:rool@rool.nl) or reach out to me on any social platform. I would love to hear from you!
